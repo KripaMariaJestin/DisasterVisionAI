@@ -1,0 +1,18 @@
+Prediction,Confidence,Confidence (%)
+Earthquake,75.08,
+Earthquake,75.08000183105469,
+Earthquake,74.30000305175781,
+Earthquake,74.30000305175781,
+Fire,,99.79
+Earthquake,,91.64
+Earthquake,,91.64
+Fire,,99.79
+Flood,,96.54
+Normal,,88.21
+Fire,,99.79
+Earthquake,,91.64
+Fire,,99.79
+Flood,,96.54
+Earthquake,,99.31
+Fire,,96.09
+Flood,,53.35
